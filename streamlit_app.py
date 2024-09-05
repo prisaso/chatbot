@@ -5,7 +5,7 @@ from pathlib import Path
 # Show title and description.
 st.title("🤖 JanaBot")
 st.write(
-    "Hi, I'm JanaBot! ('Jah'-'Nah'-'Bot') "
+    "Hi, I'm JanaBot! ('Yah'-'Nah'-'Bot') "
     "I'm your virtual assistant. Let me know what information you're looking for and I will direct you to the correct report. "
     "You can ask me anything and I will do my best to help you, or ask for more information."
 )
