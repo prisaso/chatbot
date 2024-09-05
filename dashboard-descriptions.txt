@@ -1,0 +1,62 @@
+
+1. Custom HR Forms: This dashboard provides access to all Custom HR form data in a consolidated format. Managers can review data without having to view individual employee records. The dashboard is divided into two tabs: "Custom HR Forms" and "Additional Data" for legacy custom forms. Each tab provides both charts and data tables, including the number of form submissions and the detailed entries with users' personal information. Filters are available for custom form titles, user data, and form fields. Known issues include JSON display complexities and technical limitations in filter functionality.
+
+2. Turnover: This dashboard offers a comprehensive view of employee turnover, including headcount, new hires, leavers, and turnover rates for a selected period. It contains four tabs: "Overview," "New Starters," "Leavers," and "Turnover," each with KPIs and detailed analysis. The filters include standard organizational data, time frames, and turnover-specific metrics, such as termination reasons and bad hire criteria. The dashboard helps HR assess workforce health, with improvements that provide new turnover rate metrics and added filters for better data interaction.
+
+3. Right To Work: This dashboard allows users to access and export all "Right to Work" documentation data from Employee Management. Filters include employee subsets, locations, and document types, making it easy to identify expired documents. The dashboard includes basic employee personal and contact information and offers downloadable data options.
+
+4. HR Employee Directory: The HR Employee Directory dashboard provides a detailed overview of employee information, including personal, job-related data, next of kin, and working preferences. It is divided into three tabs: "Employees," "Next of Kin," and "Working Preferences." Standard filters apply across all tabs, with report-specific filters available for date ranges and employee statuses. Enhancements include additional filters and the inclusion of working preferences and employee anniversaries.
+
+5. Workforce Demographics: This dashboard gives insights into the workforce demographics of the organization, with key metrics such as total active employees, average length of service, headcount distribution by age and gender, tenure, and the longest-serving employees. Multiple charts provide detailed views of workforce composition, with filters for time periods, gender, seniority, and various demographic parameters.
+
+6. Holiday: The Holiday dashboard offers a detailed view of employee holiday allowances, requests, and current holidays. It includes two tabs: "Allowance," which summarizes holiday allocations, and "Requests," which details employee holiday requests. Filters allow users to view holiday data by location, job title, contract type, and more. This dashboard also provides summaries for holiday allowances and detailed responses for rejected or canceled requests.
+
+7. Absence: The Absence dashboard provides an overview of employee absences, including types, durations, and trends over time. It includes two tabs: "Statistics & Data" and "Absence Summary." Filters allow for customization by time periods, absence types, duration units, and employee demographics. The dashboard also tracks consecutive absences and includes functionality to view absence instances and summary tables. Improvements include clearer charts and expanded filtering options.
+
+8. Agency Usage: An overview of agency staff usage communicating why, where, and when agency staff have been used. Includes metrics for regular shifts, sleep-ins, and time period comparisons, with key filters for location, hours/shifts, agency worker, and more. New functionality includes a time comparison tab and bug fixes related to agency usage percentage calculations.
+
+9. Birthdays: Displays upcoming birthdays for employees, including their contact details.
+
+10. Shifts Overview: A simple view of shifts across multiple locations, date ranges, and employees, with options to export the data.
+
+11. Contracted Hours: A comparison of rostered or clocked hours against contracted hours for employees.
+
+12. Shift Fulfilment: Analysis of shifts and hours by allocation (whether claimed in-app or assigned by a manager) and by fulfilment status (claimed, unclaimed, assigned).
+
+13. Rota Compliance: Percentages of allocated shifts on the roster by week, providing insights into compliance with scheduling.
+
+14. Time and Attendance: Time and attendance analysis compared to the related rostered shifts.
+
+15. Fire Report: Displays a list of employees currently on-site for fire safety and compliance purposes.
+
+16. Absence Map: A pivot-style overview of employee absences over several months.
+
+17. Current Pay Rates: Displays current pay rates for employees, with the option to filter to a historic date to view then-current rates.
+
+18. Wages Overview: Overview of wages including key pay data and metrics.
+
+19. Commissioned Hours: Analysis of over and under-staffing for Personal Work Schedules (PWSs).
+
+20. Sleep In Report: Overview of who is working or scheduled to work sleep-in shifts, including where and when.
+
+21. Open Pay Queries: Aggregation of unresolved pay queries or issues (flags) for monitoring.
+
+22. Shift Cancellations: Metrics and data regarding cancelled shifts, providing insights into cancellation trends.
+
+23. Shifts Worked In Other Locations: Analysis of shifts worked by employees in locations that are not their primary assigned locations.
+
+24. Locked Weeks Overview: Displays an overview of locked and unlocked weeks within an organization, with filters for department, date range, and lock status (visual icons), allowing for easy tracking and management.
+
+25. Reporting Lines and Permissions: Displays who employees report to and their associated permission roles and levels within the organization.
+
+26. Overlapping Payroll Records: Identifies and helps fix overlapping payroll records that might block payroll submissions.
+
+27. Audit Logs: A simple data collection of all events related to shifts, for auditing and tracking purposes.
+
+28. Address Details Change Flag: Flags employees whose address details have changed for necessary updates.
+
+29. Gender Pay Gap: Reports the difference between the average pay of men and women within an organization, highlighting gender pay disparities.
+
+30. SALT report (Sickness Annual Leave and Training): Overview of sickness, annual leave, and training data for employees.
+
+31. TRONC: Displays information related to TRONC, typically involving the distribution of tips or service charges in hospitality contexts.
